@@ -1,4 +1,4 @@
-    // get swatches
+// get swatches
 var doc = app.activeDocument;
 var swatches = doc.swatches;
 
