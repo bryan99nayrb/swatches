@@ -1,5 +1,5 @@
 # swatches
-SwatchName Listed in seperated Paragraphs Adobe Illustrator JSX
+SwatchName Listed in seperated Paragraphs within Adobe Illustrator
 
 It may not work with swatches set as Global have not been tested. 
 
