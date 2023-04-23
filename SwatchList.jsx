@@ -1,5 +1,5 @@
 //Bryan Jones. 2023.
-
+//
 // get swatches
 var doc = app.activeDocument;
 var swatches = doc.swatches;
